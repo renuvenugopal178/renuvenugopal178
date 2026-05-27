@@ -87,3 +87,9 @@ BERT-based disaster message classification system for emergency response support
 ## Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=renuvenugopal178&color=blue)
+
+## GitHub Stats
+
+![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renuvenugopal178&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renuvenugopal178&layout=compact)
