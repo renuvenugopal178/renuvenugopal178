@@ -14,6 +14,14 @@ Building intelligent, secure, and socially impactful solutions.
 - Active IEEE member and tech community contributor
 - Exploring research, open source, and security-focused AI applications
 
+- ## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ---
 
 ## Areas of Interest
@@ -74,7 +82,16 @@ BERT-based disaster message classification system for emergency response support
 - Open Source Contributions
 - Research-Oriented Development
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renuvenugopal178&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renuvenugopal178&layout=compact&theme=tokyonight)
 ---
+
+## Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=renuvenugopal178&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect With Me
 
