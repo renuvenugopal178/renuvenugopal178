@@ -93,3 +93,5 @@ BERT-based disaster message classification system for emergency response support
 ![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renuvenugopal178&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renuvenugopal178&layout=compact)
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
